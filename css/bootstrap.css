@@ -112,6 +112,9 @@ ul ul,
 ol ul,
 ul ol {
   margin-bottom: 0;
+  text-align: left;
+  padding-left: 300px;
+  font-weight: bolder;
 }
 
 dt {

@@ -232,12 +232,15 @@ a:focus {
 
 .slider_section .detail-box h2 span {
   letter-spacing: 9px;
+  color: #ffce4d;
+  /* text-transform: lowercase; */
+  text-transform:inherit;
 }
 
 .slider_section .detail-box h1 {
   font-weight: bold;
   font-size: 6rem;
-  color: #fed11f;
+  color: #4d7eff;
   text-transform: uppercase;
   letter-spacing: 14.5px;
 }
@@ -373,7 +376,7 @@ a:focus {
 }
 
 .design_section .design_container .box.b-2 {
-  background-color: #f4f8fa;
+  background-color: #9094bc;
   z-index: 2;
   margin-right: -40px;
 }
@@ -382,8 +385,12 @@ a:focus {
   background-color: #24263c;
   color: #ffffff;
   z-index: 3;
+  margin-right: -40px;
 }
-
+.design_section .design_container .box.b-4 {
+  background-color: #9094bc;
+  z-index: 4;
+}
 .about_section {
   text-align: center;
 }
