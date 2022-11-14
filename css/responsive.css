@@ -11,6 +11,7 @@
 
     .slider_section .detail-box h2 span {
         letter-spacing: 6px;
+        color: #ffc107;
     }
 
     .slider_section .detail-box .heading_box::before {
