@@ -199,11 +199,13 @@ figure {
   margin: 0 0 1rem;
 }
 
-.img .info_section .social_container {
-  vertical-align: inherit;
-  border-style: none;
-  height: 50%;
-  width: 50%;
+#img-logo{
+  width: auto;
+}
+
+img#logoimage {
+  width: 10%;
+  height: 10%;
 }
 img {
   vertical-align:baseline;
