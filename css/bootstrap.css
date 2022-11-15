@@ -199,13 +199,18 @@ figure {
   margin: 0 0 1rem;
 }
 
+.img .info_section .social_container {
+  vertical-align: inherit;
+  border-style: none;
+  height: 50%;
+  width: 50%;
+}
 img {
-  vertical-align: middle;
+  vertical-align:baseline;
   border-style: none;
   height:50%;
   width: 50%;
 }
-
 svg {
   overflow: hidden;
   vertical-align: middle;
